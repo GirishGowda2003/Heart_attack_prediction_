@@ -1,13 +1,3 @@
-
-# create environment for windows
-# python -m venv myenv
-# activate environment
-# myenv\Scripts\activate
-# pip install streamlit scikit-learn pandas seaborn numpy
-# streamlit run app.py
-
-
-
 import pickle
 import streamlit as st
 import numpy as np
